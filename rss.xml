@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.csw.inf.fu-berlin.de/ruleml2013"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>http://2013.ruleml.org</title>
+ <link>http://www.csw.inf.fu-berlin.de/ruleml2013</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>About RuleML 2013</title>
+ <link>http://www.csw.inf.fu-berlin.de/ruleml2013/content/about-ruleml-2013</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The 7th International Web Rule Symposium (RuleML 2013) will  be held at the University of Washington, Seattle in the U.S. state of Washington, on July 11-13th, 2013 co-located directly before the AAAI 2013 conference. &lt;/p&gt;
+&lt;p&gt;RuleML 2013 also hosts: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://wiki.ruleml.org/index.php/Human-Rules&quot;&gt;Human Language Technology - Special Track on &quot;Translating between Human Language and Formal Rules: Business, Law, and Government&quot; &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&quot;3rd-ruleml-doctoral-consortium&quot;&gt;3rd RuleML Doctoral Consortium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&quot;7th-international-rule-challenge&quot;&gt;7th International Rule Challenge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&quot;keynotes-and-tutorials&quot;&gt;OASIS Legal RuleML Tutorial and Meeting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&quot;program-and-accepted-papers&quot;&gt;ISO Common Logic Meeting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://www.springerlink.com/content/978-3-642-39616-8/&quot;&gt;RuleML 2013 Springer LNCS Proceedings&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://ceur-ws.org/Vol-1004/&quot;&gt;Rules Challenge, Doctoral Consortium, Human Language Technology CEUR Proceedings&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The annual International Web Rule Symposium (RuleML) is an international conference on research, applications, languages and standards for rule technologies. RuleML is the leading conference to build bridges between academia and industry in the field of rules and its applications, especially as part of the semantic technology stack. It is devoted to rule-based programming and rule-based systems including production rules systems, logic programming rule engines, and business rules engines/business rules management systems; Semantic Web rule languages and rule standards (e.g., RuleML, SWRL, RIF, PRR, SBVR, DMN, CL, Prolog); rule-based event processing languages (EPLs) and technologies; and research on inference rules, transformation rules, decision rules, production rules, and ECA rules.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 28 Oct 2012 22:03:41 +0000</pubDate>
+ <dc:creator>alexandru</dc:creator>
+ <guid isPermaLink="false">1 at http://www.csw.inf.fu-berlin.de/ruleml2013</guid>
+ <comments>http://www.csw.inf.fu-berlin.de/ruleml2013/content/about-ruleml-2013#comments</comments>
+</item>
+</channel>
+</rss>
